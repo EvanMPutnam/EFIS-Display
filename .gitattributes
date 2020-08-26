@@ -1,1 +1,2 @@
 *.java linguist-detectable=false
+src/main/kotlin/xPlaneAPI/* linguist-generated
